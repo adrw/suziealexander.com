@@ -6,7 +6,7 @@ const NotFoundPage = () => (
     <div>
       <h1>404: Uh oh!</h1>
       <p>
-        Looking for <a href="/">Adventures</a> or <a href="/about">About</a>?
+        Looking for <a href="/">Blog</a> or <a href="/about">About</a>?
       </p>
     </div>
   </Layout>
