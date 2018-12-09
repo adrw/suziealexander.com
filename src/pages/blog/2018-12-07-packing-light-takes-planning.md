@@ -12,7 +12,7 @@ tags:
 ---
 1 backpack, 1 husband and 4 weeks in South East Asia. How do you even begin to prepare for that?
 
-
+![packing in progress](/img/9eb004ad-9a51-445d-bf4e-ca46f9928f44.jpeg)
 
 Normally the husband is the most difficult part of that but my hubby is awesome (we can do a check in after these 4 weeks just to be sure though)! Anyway -You'd think packing a small bag would be easy but guess again! Sometimes it takes a few tries. 
 
