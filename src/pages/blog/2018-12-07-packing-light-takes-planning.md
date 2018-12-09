@@ -12,6 +12,8 @@ tags:
 ---
 1 backpack, 1 husband and 4 weeks in South East Asia. How do you even begin to prepare for that?
 
+
+
 Normally the husband is the most difficult part of that but my hubby is awesome (we can do a check in after these 4 weeks just to be sure though)! Anyway -You'd think packing a small bag would be easy but guess again! Sometimes it takes a few tries. 
 
 > Pack bag, unpack, reorganize, repack, pause for a snack, repeat.
@@ -43,3 +45,5 @@ A perk of travelling as a couple or group is splitting common items like first a
 Packing has been part of the anticipation of this trip. Once our bags were packed, we were one step closer to taking off.
 
 ✈️✈️✈️
+
+![Ready to go on an adventure!](/img/ca09a80d-3919-4ff7-afba-24929e6dfd97.jpeg)
