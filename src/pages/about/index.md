@@ -2,8 +2,6 @@
 templateKey: about-page
 title: SuzieAlexander.com
 ---
-![Suzie](/img/xyz-suzie.png)
-
-My new blog!
+A place for thoughts, flavours, sights, sounds and anything else that ends up here!
 
 \- Suzie
