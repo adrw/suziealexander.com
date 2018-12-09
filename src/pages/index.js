@@ -1,6 +1,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { Link, graphql } from "gatsby"
+import { kebabCase } from "lodash"
 import Layout from "../components/Layout"
 
 export default class IndexPage extends React.Component {
@@ -13,7 +14,9 @@ export default class IndexPage extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h3 className="has-text-weight-bold is-size-3">Food, Travel, &amp; Thoughts</h3>
+              <h3 className="has-text-weight-bold is-size-3">
+                Food, Travel, &amp; Thoughts
+              </h3>
             </div>
             {posts.map(({ node: post }) => (
               <div
@@ -25,8 +28,14 @@ export default class IndexPage extends React.Component {
                   <Link className="has-text-primary" to={post.fields.slug}>
                     {post.frontmatter.title}
                   </Link>
-                  <span> &bull; </span>
+                  <span>&nbsp;&nbsp; | &nbsp;&nbsp;</span>
                   <small>{post.frontmatter.date}</small>
+                  <span>&nbsp;&nbsp; | &nbsp;&nbsp;</span>
+                  {post.frontmatter.tags.map(tag => (
+                    <span key={tag + `tag`} style={{ padding: "10px" }}>
+                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                    </span>
+                  ))}
                 </p>
                 <p>
                   {post.excerpt}
@@ -70,6 +79,7 @@ export const pageQuery = graphql`
             title
             templateKey
             date(formatString: "MMMM DD, YYYY")
+            tags
           }
         }
       }
