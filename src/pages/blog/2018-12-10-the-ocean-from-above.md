@@ -9,5 +9,7 @@ tags:
   - Sights
 ---
 The ocean from above
-/img/
+
+![Cloud 9](/img/b5b5d68f-cf0d-4253-ad29-523dda4da0e8.jpeg)
+
 looked like the cracks in a dry desert.
