@@ -48,9 +48,9 @@ Bangkok has everything from cheap to high-end food, massages, shopping malls/mar
 I had a freshly made taro milk tea for 25 bhat ($1 CAD) during our afternoon walk. It was so good and had lots of flavour options. 
 ![Suzie enjoys bubble tea](/img/aa81b8f7-39b7-4866-8801-47cb7afd56ee.jpeg)
 A few blocks later, we walked by a series of barber shops and one was free so Andrew hopped in the chair to get a haircut. 
-[Andrew gets a haircut](/img/ed3f1f3a-a4ad-43a5-9ddf-1b27a6150fdf.jpeg)
+![Andrew gets a haircut](/img/ed3f1f3a-a4ad-43a5-9ddf-1b27a6150fdf.jpeg)
 With the help of a photo on his phone, Andrew told the barber what he wanted. Then we were off again feeling fresh and fine as ever!
-![Feeling fresh above the  expressway](/img/81708d0a-0732-47f0-a49c-9b4621b52669.jpeg)
+![Feeling fresh above the expressway](/img/81708d0a-0732-47f0-a49c-9b4621b52669.jpeg)
 
 ## a long day gets a bit longer when cabbing
 After a long day, we decided to take a cab back. Normally we would use Grab (the uber of South East Asia) but decided to give hailing a cab a try! How hard could it be? But you know that everyone has a cab story in Bangkok. We hailed one down and got in before someone could snag it (which does happen!). We showed the driver a google map with our address but this did not work out. If you ever take a cab, take your hotel's business card with you because that has the address writen in Thai and always make sure they use the meter. Long story short, things ended up okay as the driver pulling off to let us out after a few attempts at explaining the address and we ordered a car through the trusty Grab app. 
