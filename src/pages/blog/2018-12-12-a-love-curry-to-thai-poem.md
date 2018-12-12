@@ -9,6 +9,7 @@ tags:
   - SEA
   - Bangkok
 ---
+```
 Thai curry oh Thai curry 
 You are different every place we go
 You are made simmering really slow
@@ -21,3 +22,4 @@ With your multidimensional flavour form
 
 Love, 
 Suzie 
+```
