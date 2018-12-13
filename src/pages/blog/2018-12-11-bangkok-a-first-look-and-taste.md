@@ -53,7 +53,7 @@ Bangkok has everything from cheap to high-end foods, massages, shopping malls/ma
 ## bubble tea, an impromptu haircut and the park
 On our first day, I had a freshly made taro milk tea for 25 bhat ($1 CAD) during our afternoon walk. It was so good and had lots of flavour options. This trend continued and showed no signs of stopping as I  fell in love with bubble tea over and over. [Link to To all the bubble tea I ever loved.)
 
-![Suzie enjoys bubble tea](/img/aa81b8f7-39b7-4866-8801-47cb7afd56ee.jpeg)
+![Suzie enjoys bubble tea](/img/16c98220-bc47-499a-8c70-b72d6efdae8b.jpeg)
 
 A few blocks later, we walked by a series of barber shops and one was free so Andrew hopped in the chair to get a haircut. 
 
