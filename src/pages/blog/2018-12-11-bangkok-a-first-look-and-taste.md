@@ -66,7 +66,9 @@ With the help of a photo on his phone, Andrew told the barber what he wanted. Th
 ## a long day gets a bit longer when cabbing
 After a long day, we decided to take a cab back. Normally we would use Grab (the uber of South East Asia) but decided to give hailing a cab a try! How hard could it be? But you know that everyone has a cab story in Bangkok. We hailed one down and got in before someone could snag it (which does happen!). We showed the driver a google map with our address but this did not work out. If you ever take a cab, take your hotel's business card with you because that has the address writen in Thai and always make sure they use the meter to make sure you don’t get overcharged. Long story short, things ended up okay as the driver pulling off to let us out after a few attempts at explaining the address and we ordered a car through the trusty Grab app. 
 
-## laumphini park 
+## lumphini park 
+![thinking about working out in Lumphini Park](/img/9086f9c1-3f66-4481-845d-64a4c8eaad8d.jpeg)
+
 Bangkok's version of Central Park with exercise machines, an outdoor gym, large running path, benches and a playground for the kids. The jogging and natural gym culture I s huge here! 
 
 ## asiatique
