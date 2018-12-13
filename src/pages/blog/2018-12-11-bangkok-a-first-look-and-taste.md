@@ -78,7 +78,7 @@ A boutique open air market with fashionable buys and a variety of restaurants, f
 ##Jetlag and an unexpected alley
 Our second day was a bit more low key as we focused on meals and resting -we had a strong start exploring the first day in Bangkok but the jet lag would get to us. After sleeping in and breakfast, we walked the streets again and decided to explore the alleyways that the motorbikes kept zipping into. It was like discovering a whole new world (sing with me now!)...
 
-
+![A whole new world](/img/7d2f840c-6e51-4487-bd08-beb5e8123120.jpeg)
 
 ```
 "A whole new world 
