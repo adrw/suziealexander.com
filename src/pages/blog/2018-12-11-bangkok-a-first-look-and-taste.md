@@ -73,7 +73,7 @@ Bangkok's version of Central Park with exercise machines, an outdoor gym, large 
 
 ## asiatique
 A boutique open air market with fashionable buys and a variety of restaurants, food trucks and stalls on the beautiful riverfront. This place has quite the aesthetic and is enjoyed by many tourists. I loved walking around and seeing all the cute clothing (which I'll likely buy next time we're in Bangkok). We enjoyed ending the evening with some fried wings along the waterfront watching boats go by. A good end to the day.
-![Asiarique](/img/)
+![Asiatique](/img/4c5cb4f8-e600-4c3e-bb7c-b6dbcd0c4258.jpeg)
 
 ##Jetlag and an unexpected alley
 Our second day was a bit more low key as we focused on meals and resting -we had a strong start exploring the first day in Bangkok but the jet lag would get to us. After sleeping in and breakfast, we walked the streets again and decided to explore the alleyways that the motorbikes kept zipping into. It was like discovering a whole new world (sing with me now!)..
