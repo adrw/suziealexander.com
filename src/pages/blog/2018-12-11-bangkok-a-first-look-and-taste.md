@@ -76,8 +76,11 @@ A boutique open air market with fashionable buys and a variety of restaurants, f
 ![Asiatique](/img/4c5cb4f8-e600-4c3e-bb7c-b6dbcd0c4258.jpeg)
 
 ##Jetlag and an unexpected alley
-Our second day was a bit more low key as we focused on meals and resting -we had a strong start exploring the first day in Bangkok but the jet lag would get to us. After sleeping in and breakfast, we walked the streets again and decided to explore the alleyways that the motorbikes kept zipping into. It was like discovering a whole new world (sing with me now!)..
+Our second day was a bit more low key as we focused on meals and resting -we had a strong start exploring the first day in Bangkok but the jet lag would get to us. After sleeping in and breakfast, we walked the streets again and decided to explore the alleyways that the motorbikes kept zipping into. It was like discovering a whole new world (sing with me now!)...
 
+
+
+```
 "A whole new world 
 a local place I never knew
 And it's crystal clear from way down here 
@@ -90,8 +93,9 @@ Tumbling through fish and veggie stalls and homes with lovely flowers
 Tell me darling 
 Is this what you came for
 Because now we're in a whole new world (together)"
+```
 
-That song remix goes out to my love and partner in adventures -Andrew who finds joy in my enthusiastic off-key singing. Thanks for being just crazy enough that we took on this adventure to see a new part of the world (Out of our backpacks! For 4 weeks! Solo for the first half of the trip!).
+That song remix goes out to my love and partner in adventures: Andrew who finds joy in my enthusiastic off-key singing. Thanks for being just crazy enough that we took on this adventure to see a new part of the world (Out of our backpacks! For 4 weeks! Solo for the first half of the trip!).
 
 ## until next time
- That's all for now folks. This has been a first look at Bangkok. Check A taste of Bangkok for food profiles. There's lots to see here in Bangkok so we'll be back again with friends very soon!
+That's all for now folks. This has been a first look at Bangkok. Check A taste of Bangkok for food profiles. There's lots to see here in Bangkok so we'll be back again with friends very soon!
