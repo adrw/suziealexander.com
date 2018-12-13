@@ -6,8 +6,12 @@ description: >-
   That’s exactly what I said I would write about as I became intoxicated with
   the flavours of this dish. A love poem to Thai curry by Suzie.
 tags:
+  - Travel
   - SEA
+  - Thailand
   - Bangkok
+  - Flavours
+  - Poem
 ---
 ```
 Thai curry oh Thai curry 
