@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: The ocean from above
-date: 2018-12-10T21:11:46.835Z
+date: 2018-12-10T21:00:00.000Z
 description: 'Sights from above '
 tags:
   - Travel
