@@ -36,7 +36,7 @@ Day 2 was a breakfast that made me believe in eggs again. For those who don't kn
 The traffic here was the first thing that really stood out. How the cars, buses and motorbikes zip around effortlessly as pedestrians cross between without stopping traffic! After watching the locals do this a few times and remembering that traffic drives on the left side (not he right lane like they do in Canada), we managed to cross the road like pros! 
 But let's get back to the motorbikes. I still have this image ingrained in my mind of seeing a dad with baby held in front of him as he waved through traffic. Or a mom with daughter balanced on the back on her phone. I'm in awe while realizing that's part of everyday life here.
 
-[Motorcycles)(/img/)
+![Motorcycles)(/img/bdefbc10-ae37-4c90-8406-0d3428a34af4.jpeg)
 
 The city is busy in some ways but much more relaxed than any other big city. There are lots of cars and motorbikes but little honking. There are many people selling their street food but no yelling. The Thai are a gentle and hard working people.
 
