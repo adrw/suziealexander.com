@@ -16,7 +16,7 @@ Andrew and I decided to walk our first day to get a ground view  of Bangkok. Her
 
 ## the neighbourhood
 
-![Shrines are outside every business and house](/img/34602d17-0261-4423-bb3e-89b8b6191c96.jpeg)
+![Sathon District of Bangkok](/img/9dfbf4cc-746a-45e3-a3bd-5ea1f973cad6.jpeg)
 
 We started off the morning walking a few blocks to get familiar with the neighbourhood of Sathon we were staying in. 
 We saw kids headed to school in their uniforms, car shops custom cutting car parts, construction material shops, street food vendors of all kinds, lottery ticket sellers and people moving around getting to where they were headed. 
