@@ -1,14 +1,14 @@
 ---
 templateKey: blog-post
 title: 'Bangkok: A first look'
-date: 2018-12-13T01:30:18.856Z
+date: 2018-12-12T01:30:18.856Z
 description: 'Bangkok: A first look '
 tags:
   - Travel
   - SEA
   - Bangkok
   - Sights
-  - Tastes
+  - Flavours
 ---
 Day 1: 18,749 steps and 11.2 km
 Day 2: 6,845 steps and 4.2 km
