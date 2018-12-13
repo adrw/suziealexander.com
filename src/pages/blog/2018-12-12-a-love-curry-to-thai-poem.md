@@ -13,6 +13,8 @@ tags:
   - Flavours
   - Poem
 ---
+![The Inspiration](/img/bd397db0-3830-480d-9378-4cdcfd565749.jpeg)
+
 ```
 Thai curry oh Thai curry 
 You are different every place we go
