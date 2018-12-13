@@ -1,14 +1,14 @@
 ---
 templateKey: blog-post
 title: 'A girl and her backpack '
-date: 2018-12-07T15:04:00.000Z
+date: 2018-12-09T15:00:00.000Z
 description: >-
   1 backpack plus husband in South East Asia. Pack bag, unpack, reorganize,
   repack, pause for a snack, repeat.
 tags:
+  - Travel
   - Packing
   - SEA
-  - Travel
 ---
 1 backpack, 1 husband and 4 weeks in South East Asia. How do you even begin to prepare for that?
 
