@@ -10,10 +10,9 @@ tags:
   - Sights
   - Tastes
 ---
-Day 1. 18,749 steps and 11.2 km
-Andrew and I decided to walk so we could get a detailed look at Bangkok. Here's what we saw and tasted.
-
-We have one more day in Bangkok so I'll update this post if we eat or see anything interest. 
+Day 1: 18,749 steps and 11.2 km
+Day 2: 6,845 steps and 4.2 km
+Andrew and I decided to walk our first day to get a ground view  of Bangkok. Here's what we saw.
 
 ## the neighbourhood
 ![Shrines are outside every business and house](/img/34602d17-0261-4423-bb3e-89b8b6191c96.jpeg)
@@ -25,14 +24,18 @@ The walk around the block gave us a sense of the types of foods being sold.
 
 We smelled some delicious grilled meat and wandered over. Welcome to the city where you can eating freshly grilled meat skewers for breakfast. Let's make this a thing in Canada, please! 
 
-A bit more wandering and we found a cart selling soup. It was a popular place with the locals especially the motorbike taxi workers. After a little bit of a struggle ordering, I basically ordered whatever everyone else what having. It's important to know most street food vendors cook up one or two types of dishes so you get what they're going (with a bit of customization if it's a dish with mixed ingredients). So we were seated at a foldable metal table with stools as chairs. Now we just wait for our soup to cook! The soup was the first traditional dish we had here containing a flavourful light broth with chicken, pork, blood cubes, small intestine and some chewy meat, little greens and chives served with a side of rice. I was a bit nervous about the unfamiliar bits but boy was it delicious. 
+A bit more wandering and we found a cart selling soup. It was a popular place with the locals especially the motorbike taxi workers. After a little bit of a struggle ordering, I basically ordered whatever everyone else what having. It's important to know most street food vendors cook up one or two types of dishes so you get what they're going (with a bit of customization if it's a dish with mixed ingredients). So we were seated at a foldable metal table with stools as chairs. Now we just wait for our soup to cook! The soup was the first traditional dish we had here containing a flavourful light broth with chicken, pork, blood cubes, small intestine and some chewy meat, little greens and chives served with a side of rice. I was a bit nervous about the unfamiliar bits but glad I got out of my comfort zone to taste something new.
 
 ![Soup](/img/848d84a1-fbcc-433a-a314-68f3fac3bed8.jpeg)
+
+Day 2 was a breakfast that made me believe in eggs again. For those who don't know, I'm just on the boarder of disliking eggs -they smell funny and normally don't offer much in flavour (Unless drenched in a sauce). I'm now a big believer of fried egg on rice with a side sauté. The egg is perfectly crispy at the bottom with the yolk being just runny enough -and no egg smell! The sauté (we got shrimp and chicken) had a nice balance of chili, sweetness, fish or soy sauce interspersed with little greens. A little bit of rice, egg and sauté is carefully portioned onto a spoon to provide the perfect bite. A vinegar chili bowl accompanies this dish for seasoning (if desired). The vinegar isn't strong at all but does pack some heat with those Thai red and green chilies in there! 
 
 ## the hussle and bustle
 The traffic here was the first thing that really stood out. How the cars, buses and motorbikes zip around effortlessly as pedestrians cross between without stopping traffic! After watching the locals do this a few times and remembering that traffic drives on the left side (not he right lane like they do in Canada), we managed to cross the road like pros! 
 But let's get back to the motorbikes. I still have this image ingrained in my mind of seeing a dad with baby held in front of him as he waved through traffic. Or a mom with daughter balanced on the back on her phone. I'm in awe while realizing that's part of everyday life here.
 [Motorcycles)[/img/]
+
+
 
 ## errands and 7-11
 Getting cash in Bangkok is really easy -we went to a bank atm but noticed there were also tons of tourist atms in it streets. 
